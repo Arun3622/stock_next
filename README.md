@@ -31,9 +31,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# next_stock_Billing_system
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploymen![trading img1](https://github.com/user-attachments/assets/b04b99bc-f217-4d9e-bc13-0e230244101c)![trading img 2](https://github.com/user-attachments/assets/59bf6c0b-4bc1-45e2-95c7-c0b82ebcbae9)
+![trading img3](https://github.com/user-attachments/assets/d68d0f21-8799-4e3b-9d95-d74494158c35)![trading img4](https://github.com/user-attachments/assets/cdfa2e69-14aa-4f1a-819f-21f884986d94)
 
-# next_stock_Billing_system
 
-# next_stock_Billing_system
+t) for more details.
+
